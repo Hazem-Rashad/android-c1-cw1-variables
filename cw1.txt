@@ -1,0 +1,5 @@
+ String name = "Hazem";
+  int favoritenumber= 11;
+	    String hobby = "football";
+	   System.out.println( "Hi, My name is" +  name +  "my favorite number is" + favoritenumber + "and my hobby is"
+	   + hobby);
